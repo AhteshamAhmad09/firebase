@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830488546706",
+    "project_id": "basicfire-72878",
+    "storage_bucket": "basicfire-72878.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830488546706:android:9c01237e72be366d47854b",
+        "android_client_info": {
+          "package_name": "com.basicfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEA7WWQn0NU8CTIHpOxBbA5RBbJvRJ0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830488546706:android:895a36514d70b08847854b",
+        "android_client_info": {
+          "package_name": "com.jio.acd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEA7WWQn0NU8CTIHpOxBbA5RBbJvRJ0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
