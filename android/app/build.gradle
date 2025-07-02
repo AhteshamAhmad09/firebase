@@ -82,7 +82,7 @@ android {
 
     namespace "com.basicfire"
     defaultConfig {
-        applicationId "com.basicfire"
+        applicationId "com.jio.acd"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
