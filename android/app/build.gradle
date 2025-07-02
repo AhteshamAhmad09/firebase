@@ -80,7 +80,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.basicfire"
+    namespace "acd"
     defaultConfig {
         applicationId "com.jio.acd"
         minSdkVersion rootProject.ext.minSdkVersion
